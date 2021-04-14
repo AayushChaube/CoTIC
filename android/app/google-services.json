@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437586734823",
+    "project_id": "covid-tracer-ayush",
+    "storage_bucket": "covid-tracer-ayush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437586734823:android:0d1badd28b368f73337c42",
+        "android_client_info": {
+          "package_name": "com.covidtracer.covidtracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437586734823-qr89l3md2409intapr6vpc5g3ud0d955.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD328O3bwfCVYrrOTGOSri7BlWa3dU47Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437586734823-qr89l3md2409intapr6vpc5g3ud0d955.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
