@@ -1,2 +1,2 @@
 # CoTIC
-CovidTrace and Immunization Calculator
+CovidTrace and Immunization Calculator.
